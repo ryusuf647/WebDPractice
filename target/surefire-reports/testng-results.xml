@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-01T19:52:51 EST" name="Suite" finished-at="2020-11-01T19:54:07 EST" duration-ms="75371">
+    <groups>
+    </groups>
+    <test started-at="2020-11-01T19:52:51 EST" name="Test1" finished-at="2020-11-01T19:54:07 EST" duration-ms="75371">
+      <class name="FacebookTest.edgeFBtest">
+        <test-method is-config="true" signature="init()[pri:0, instance:FacebookTest.edgeFBtest@68567e20]" started-at="2020-11-01T19:53:40 EST" name="init" finished-at="2020-11-01T19:53:45 EST" duration-ms="5507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="navigate()[pri:1, instance:FacebookTest.edgeFBtest@68567e20]" started-at="2020-11-01T19:53:45 EST" name="navigate" finished-at="2020-11-01T19:53:49 EST" duration-ms="3812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="pageTitle()[pri:2, instance:FacebookTest.edgeFBtest@68567e20]" started-at="2020-11-01T19:53:49 EST" name="pageTitle" finished-at="2020-11-01T19:53:49 EST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method signature="LoginTestxpath()[pri:3, instance:FacebookTest.edgeFBtest@68567e20]" started-at="2020-11-01T19:53:49 EST" name="LoginTestxpath" finished-at="2020-11-01T19:53:58 EST" duration-ms="9016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestxpath -->
+        <test-method signature="negLogin1()[pri:4, instance:FacebookTest.edgeFBtest@68567e20]" started-at="2020-11-01T19:53:58 EST" name="negLogin1" finished-at="2020-11-01T19:54:03 EST" duration-ms="4592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLogin1 -->
+        <test-method signature="negLogin2()[pri:5, instance:FacebookTest.edgeFBtest@68567e20]" started-at="2020-11-01T19:54:03 EST" name="negLogin2" finished-at="2020-11-01T19:54:05 EST" duration-ms="2381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLogin2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FacebookTest.edgeFBtest@68567e20]" started-at="2020-11-01T19:54:05 EST" name="tearDown" finished-at="2020-11-01T19:54:07 EST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- FacebookTest.edgeFBtest -->
+      <class name="FacebookTest.chromeFBtest">
+        <test-method is-config="true" signature="init()[pri:0, instance:FacebookTest.chromeFBtest@2118cddf]" started-at="2020-11-01T19:52:51 EST" name="init" finished-at="2020-11-01T19:52:57 EST" duration-ms="5327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="navigate()[pri:1, instance:FacebookTest.chromeFBtest@2118cddf]" started-at="2020-11-01T19:52:57 EST" name="navigate" finished-at="2020-11-01T19:52:59 EST" duration-ms="2017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="pageTitle()[pri:2, instance:FacebookTest.chromeFBtest@2118cddf]" started-at="2020-11-01T19:52:59 EST" name="pageTitle" finished-at="2020-11-01T19:52:59 EST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method signature="LoginTestxpath()[pri:3, instance:FacebookTest.chromeFBtest@2118cddf]" started-at="2020-11-01T19:52:59 EST" name="LoginTestxpath" finished-at="2020-11-01T19:53:05 EST" duration-ms="6327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestxpath -->
+        <test-method signature="negLogin1()[pri:4, instance:FacebookTest.chromeFBtest@2118cddf]" started-at="2020-11-01T19:53:05 EST" name="negLogin1" finished-at="2020-11-01T19:53:09 EST" duration-ms="4527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLogin1 -->
+        <test-method signature="negLogin2()[pri:5, instance:FacebookTest.chromeFBtest@2118cddf]" started-at="2020-11-01T19:53:09 EST" name="negLogin2" finished-at="2020-11-01T19:53:12 EST" duration-ms="2379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLogin2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FacebookTest.chromeFBtest@2118cddf]" started-at="2020-11-01T19:53:12 EST" name="tearDown" finished-at="2020-11-01T19:53:13 EST" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- FacebookTest.chromeFBtest -->
+      <class name="FacebookTest.firefoxFBtest">
+        <test-method is-config="true" signature="init()[pri:0, instance:FacebookTest.firefoxFBtest@17a7f733]" started-at="2020-11-01T19:53:13 EST" name="init" finished-at="2020-11-01T19:53:20 EST" duration-ms="7309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="navigate()[pri:1, instance:FacebookTest.firefoxFBtest@17a7f733]" started-at="2020-11-01T19:53:20 EST" name="navigate" finished-at="2020-11-01T19:53:24 EST" duration-ms="3622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="pageTitle()[pri:2, instance:FacebookTest.firefoxFBtest@17a7f733]" started-at="2020-11-01T19:53:24 EST" name="pageTitle" finished-at="2020-11-01T19:53:24 EST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method signature="LoginTestxpath()[pri:3, instance:FacebookTest.firefoxFBtest@17a7f733]" started-at="2020-11-01T19:53:24 EST" name="LoginTestxpath" finished-at="2020-11-01T19:53:31 EST" duration-ms="6595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestxpath -->
+        <test-method signature="negLogin1()[pri:4, instance:FacebookTest.firefoxFBtest@17a7f733]" started-at="2020-11-01T19:53:31 EST" name="negLogin1" finished-at="2020-11-01T19:53:35 EST" duration-ms="4289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLogin1 -->
+        <test-method signature="negLogin2()[pri:5, instance:FacebookTest.firefoxFBtest@17a7f733]" started-at="2020-11-01T19:53:35 EST" name="negLogin2" finished-at="2020-11-01T19:53:37 EST" duration-ms="2335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLogin2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FacebookTest.firefoxFBtest@17a7f733]" started-at="2020-11-01T19:53:37 EST" name="tearDown" finished-at="2020-11-01T19:53:40 EST" duration-ms="2668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- FacebookTest.firefoxFBtest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

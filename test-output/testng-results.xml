@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-09T09:31:35 EST" name="Default suite" finished-at="2020-11-09T09:32:12 EST" duration-ms="36837">
+    <groups>
+    </groups>
+    <test started-at="2020-11-09T09:31:35 EST" name="Default test" finished-at="2020-11-09T09:32:12 EST" duration-ms="36837">
+      <class name="SelTest.SelTest1">
+        <test-method is-config="true" signature="initMethod()[pri:0, instance:SelTest.SelTest1@152aa092]" started-at="2020-11-09T09:31:35 EST" name="initMethod" finished-at="2020-11-09T09:32:01 EST" duration-ms="25118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initMethod -->
+        <test-method signature="fromCity()[pri:1, instance:SelTest.SelTest1@152aa092]" started-at="2020-11-09T09:32:01 EST" name="fromCity" finished-at="2020-11-09T09:32:08 EST" duration-ms="7756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromCity -->
+        <test-method signature="toCity()[pri:2, instance:SelTest.SelTest1@152aa092]" started-at="2020-11-09T09:32:08 EST" name="toCity" finished-at="2020-11-09T09:32:12 EST" duration-ms="3813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toCity -->
+      </class> <!-- SelTest.SelTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

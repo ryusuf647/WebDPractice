@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test1">
+  	<classes>
+  		<class name = "WebDriver.Test.chrometest" />
+  		<class name = "WebDriver.Test.firefoxtest" />
+  		<class name = "WebDriver.Test.ietest" />
+  	</classes>
+  </test>
+</suite> 
